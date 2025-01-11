@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Prachetagulhane
 - 👀 I’m interested in python, Java ,HTML,CSS
 - 🌱 I’m currently learning computer science engineering...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ All my projects are available on https://github.com/Prachetagulhane
+- Want to explore my linkedin https://www.linkedin.com/in/pracheta-gulhane-a6a050282
 - 📫 How to reach me prachetagulhane786@gmail.com
 
 <!---
