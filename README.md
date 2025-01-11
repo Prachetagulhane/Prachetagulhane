@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prachetagulhane
-- 👀 I’m interested in python..
+- 👀 I’m interested in python, Java ,HTML,CSS
 - 🌱 I’m currently learning computer science engineering...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me prachetagulhane786@gmail.com
 
 <!---
 Prachetagulhane/Prachetagulhane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
